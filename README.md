@@ -1,4 +1,4 @@
-# Editor de Plantillas QGIS
+# Proyecto Editor de Plantillas QGIS (sin terminar)
 
 Este repositorio contiene una aplicación PyQt5 diseñada para modificar dinámicamente plantillas QGIS (.qpt) basadas en la entrada del usuario y realizar operaciones geoespaciales utilizando QGIS.
 
